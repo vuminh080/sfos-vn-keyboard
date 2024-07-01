@@ -11,15 +11,15 @@ Hưỡng dẫn cài đặt:
 
 **4.** Dùng Terminal có sẵn: 
 
-**5.** Gõ lệnh ```kt_devel-su_ ```để truy cập quyền root, mật khẩu là mật khẩu bạn vừa đặt 
+**5.** Gõ lệnh ```kt_devel-su ```để truy cập quyền root, mật khẩu là mật khẩu bạn vừa đặt 
 
 **6.** Gõ các lệnh sau: 
    ```kt
-   _cd /home_
+   cd /home
 
-   _cp sobek_vn.qml /usr/share/maliit/plugins/com/jolla/layouts_
+   cp sobek_vn.qml /usr/share/maliit/plugins/com/jolla/layouts
 
-   _cp layouts_sobek_vn.conf /usr/share/maliit/plugins/com/jolla/layouts_
+   cp layouts_sobek_vn.conf /usr/share/maliit/plugins/com/jolla/layouts
    ```
 
 **7.** Khởi động lại thiết bị, chọn Vietnamese trong phần cài đặt bàn phím
