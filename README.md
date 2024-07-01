@@ -11,7 +11,7 @@ Hưỡng dẫn cài đặt:
 
 **4.** Dùng Terminal có sẵn: 
 
-**5.** Gõ lệnh ```kt _devel-su_ ```để truy cập quyền root, mật khẩu là mật khẩu bạn vừa đặt 
+**5.** Gõ lệnh ```kt_devel-su_ ```để truy cập quyền root, mật khẩu là mật khẩu bạn vừa đặt 
 
 **6.** Gõ các lệnh sau: 
    ```kt
