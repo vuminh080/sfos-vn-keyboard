@@ -36,16 +36,16 @@ KeyboardLayout {
     splitSupported: true
 
     KeyboardRow {
-        CharacterKey { caption: ""; captionShifted: ""; symView: "😍"; symView2: "😢" }
-        CharacterKey { caption: ""; captionShifted: ""; symView: "😀"; symView2: "😭" }
+        CharacterKey { caption: " "; captionShifted: ""; symView: "😍"; symView2: "😢" }
+        CharacterKey { caption: " "; captionShifted: ""; symView: "😀"; symView2: "😭" }
         CharacterKey { caption: "ă"; captionShifted: "Ă"; symView: "😉"; symView2: "😐"; accents: "ăắằẵặẳ"; accentsShifted: "ĂẮẰẴẶẲ" }
         CharacterKey { caption: "â"; captionShifted: "Â"; symView: "😘"; symView2: "😛"; accents: "âấầẵặẳ"; accentsShifted: "ÂẤẦẴẶẲ" }
         CharacterKey { caption: "ô"; captionShifted: "Ô"; symView: "😎"; symView2: "😄"; accents: "ôồốỗộổ"; accentsShifted: "ÔỒỐỖỘỔ" }
         CharacterKey { caption: "ơ"; captionShifted: "Ơ"; symView: "😃"; symView2: "😕"; accents: "ơờớỡợở"; accentsShifted: "ƠỜỚỠỢỞ" }
         CharacterKey { caption: "ư"; captionShifted: "Ư"; symView: "❤"; symView2: "😞"; accents: "ưừứữựử"; accentsShifted: "ƯỪỨỮỰỬ" }
         CharacterKey { caption: "ê"; captionShifted: "Ê"; symView: "😊"; symView2: "😮"; accents: "êềếễệể"; accentsShifted: "ÊỀẾỄỆỂ" }
-        CharacterKey { caption: ""; captionShifted: ""; symView: "😁"; symView2: "😠" }
-        CharacterKey { caption: ""; captionShifted: ""; symView: "😂"; symView2: "😴" }
+        CharacterKey { caption: " "; captionShifted: ""; symView: "😁"; symView2: "😠" }
+        CharacterKey { caption: " "; captionShifted: ""; symView: "😂"; symView2: "😴" }
     }
 
     KeyboardRow {
@@ -93,4 +93,5 @@ KeyboardLayout {
 
     SpacebarRow {}
 }
+
 
